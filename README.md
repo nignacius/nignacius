@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @nignacius
-- 👀 I’m interested in Java, J2EE, PHP development
-- 🌱 I’m currently learning reactJS
+- 👀 I’m interested in Java, J2EE, PHP, Python, reactJS
 - 💞️ I’m looking to collaborate on Java projects
 - 📫 How to reach me ...
 
